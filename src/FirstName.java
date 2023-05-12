@@ -27,8 +27,8 @@ public class FirstName {
 			System.out.println("This first name is not valid");
 		}
 	}
-
-
+	/**
+	*This is main method  of program
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
@@ -43,5 +43,4 @@ public class FirstName {
 		tofirstName(firstName);
 
 	}
-
 }
